@@ -1,4 +1,7 @@
 # ELog
+
+![img](https://jitpack.io/v/aotian16/ELog.svg)
+
 Manage log output for android.
 
 # Install
