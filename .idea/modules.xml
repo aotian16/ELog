@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ELog.iml" filepath="$PROJECT_DIR$/ELog.iml" />
       <module fileurl="file://$PROJECT_DIR$/elog/app.iml" filepath="$PROJECT_DIR$/elog/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elog/elog.iml" filepath="$PROJECT_DIR$/elog/elog.iml" />
     </modules>
   </component>
 </project>
