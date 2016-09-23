@@ -19,7 +19,7 @@ Manage log output for android.
 
 ```
 	dependencies {
-	        compile 'com.github.aotian16:ELog:v1.0.1'
+	        compile 'com.github.aotian16:ELog:v1.0.2'
 	}
 ```
 
@@ -187,10 +187,11 @@ public class MainActivity extends AppCompatActivity {
 
 # Version
 
-| No.  | Version | Detail                     |
-| :--: | :-----: | -------------------------- |
-|  1   |  1.0.0  | First version              |
-|  2   |  1.0.1  | update appcompat-v7:24.2.0 |
+| No.  | Version | Detail           |
+| :--: | :-----: | ---------------- |
+|  1   |  1.0.0  | First version    |
+|  2   |  1.0.1  | update appcompat |
+|  3   |  1.0.2  | update appcompat |
 
 # [LICENSE](https://github.com/aotian16/ELog/blob/master/LICENSE)
 
